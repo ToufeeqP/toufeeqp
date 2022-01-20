@@ -4,5 +4,5 @@
 
 
 ## 🏆 Github Trophy
-[![trophy](https://github-profile-trophy.vercel.app/?username=ToufeeqP)](https://github-profile-trophy.vercel.app/?username=ToufeeqP&rank=S,AAA,AA,A,B,C)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ToufeeqP)](https://github-profile-trophy.vercel.app/?username=ToufeeqP&row=2&column=3)
 
