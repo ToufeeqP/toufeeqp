@@ -3,7 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufeeqp&label=Profile%20views&color=0e75b6&style=flat" alt="toufeeqp" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=toufeeqp" alt="toufeeqp" /></a> </p>
+<p align="left"> <a href="https://github.com/ToufeeqP/github-readme-trophy"><img src="https://github-readme-trophy.vercel.app/?username=toufeeqp&row=1&column=4" alt="toufeeqp" /></a> </p>
+
+<!-- [![trophy](https://github-profile-trophy.vercel.app/?username=toufeeqp&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
