@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Toufeeq Pasha</h1>
-<h3 align="center">A Software engineer, blockchain & cryptography enthusiast from Bangalore, India</h3>
+<h3 align="center">A software engineer based in Bangalore, India, with a passion for blockchain and cryptography. I have extensive experience in blockchain programming and hold a professional certification in Blockchain for Business offered by The Linux Foundation. I have successfully built and launched two standalone live blockchains using the Substrate framework.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=toufeeqp&label=Profile%20views&color=0e75b6&style=flat" alt="toufeeqp" /> </p>
 
